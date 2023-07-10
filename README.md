@@ -1,2 +1,2 @@
 # segmentectomy
-CT-based prognostication in patients who underwent segmentectomy for lung cancers.
+Clinical Utility of a CT-based AI Model for Segmentectomy in Clinical Stage IA Lung Cancers
